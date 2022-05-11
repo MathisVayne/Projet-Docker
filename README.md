@@ -176,7 +176,7 @@ ProjectDocker:
 
 # Test the infrastructure
 
-First you will have to use a command to build the docker-compose which is:
+First you will have to use a command to build the docker-compose and compile eveyrthing which is:
       docker-compose build
       
 And then you will run you docker with:
